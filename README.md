@@ -124,7 +124,7 @@ Don't forget to give the project a star! Thanks again!
 
 Email-Id: rishabhgoyal992@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/RishabhGoyal992/Blog-Post-Sentimental-Analysis-Services)
+Project Link: [https://github.com/RishabhGoyal992/Blog-Post-Sentimental-Analysis-Services](https://github.com/RishabhGoyal992/Blog-Post-Sentimental-Analysis-Services)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
