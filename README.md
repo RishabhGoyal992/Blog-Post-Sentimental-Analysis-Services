@@ -41,16 +41,28 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#built-with">Built With</a>
     </li>
     <li>
-      <a href="#built-with">Built With</a>
+      <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
+## Built With
 
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Spring][Spring-boot]][s-url]
+* [![MySql][MySql]][m-url]
+* [![JWT][JWT]][jwt-url]
+* [![SQS][SQS]][sqs-url]
+* [![Swagger][Swagger]][swag-url]
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -82,19 +94,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-## Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Spring][Spring-boot]][s-url]
-* [![MySql][MySql]][m-url]
-* [![JWT][JWT]][jwt-url]
-* [![SQS][SQS]][sqs-url]
-* [![Swagger][Swagger]][swag-url]
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
